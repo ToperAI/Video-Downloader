@@ -102,7 +102,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 For any questions or support, please open an issue in the repository or contact the project maintainer.
 
 
-- **Email**: chimarokeonyebi@gmail.com
+- **Email**: ravijiitaura@gmail.com
 
 ---
 
